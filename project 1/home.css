@@ -1,0 +1,87 @@
+.down{
+    margin-top: 200px;
+}
+.heading{
+    color: red;
+}
+.home img{
+    width: 450px;
+    height: 500px;
+    margin-top: 50px;
+}
+.home h1{
+    font-weight: bolder;
+    color: white;
+}
+.down p{
+    font-size: larger;
+}
+.button{
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    margin: 10px;
+}
+.main{
+    background-image: url(http://www.pixelstalk.net/wp-content/uploads/2016/07/Picture-Plain-HD.jpg);
+    padding-bottom: 50px;
+}
+.myabout{
+    background-color:#dcd7e2;
+}
+.navbar{
+    border-radius: 50px;
+    margin-top: 25px;
+    background-color: rgb(118, 27, 27);
+    box-shadow: 2px 5px 20px rgb(118, 27, 27);
+}
+
+/* section2 */
+.top{
+    text-align: center;
+    margin-top: 50px;
+}
+.box{
+    background-color: white;
+    box-shadow: 2px 2px 5px white;
+    
+}
+.down1{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+.about img{
+    width: 600px;
+    height: 600px;
+    margin-bottom: 100px;
+}
+.down1 img{
+    width: 100px;
+    height: 70px;
+}
+.bottom{
+    margin-top: 20px;
+}
+.card{
+    padding: 10px;
+    box-shadow: 5px 5px 10px wheat;
+    /* margin: 10px; */
+}
+.reshead1{
+    text-align: center;
+    margin: 5px;
+}
+.reshead h1,h2{
+    color: #ffc107;
+}
+.reshead1 h1{
+    color: #ffc107;
+}
+.myresume{
+    background-color:#faf9fb;
+}
+
+/* button{
+    border-radius: 50px;
+} */
