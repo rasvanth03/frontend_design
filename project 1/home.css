@@ -1,3 +1,7 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
 .down{
     margin-top: 200px;
 }
@@ -31,7 +35,7 @@
 }
 .navbar{
     border-radius: 50px;
-    margin-top: 25px;
+    margin-top: 5px;
     background-color: rgb(118, 27, 27);
     box-shadow: 2px 5px 20px rgb(118, 27, 27);
 }
@@ -72,16 +76,17 @@
     text-align: center;
     margin: 5px;
 }
-.reshead h1,h2{
-    color: #ffc107;
-}
-.reshead1 h1{
-    color: #ffc107;
+h1,h2{
+    color: #761B1B;
+
 }
 .myresume{
     background-color:#faf9fb;
 }
-
-/* button{
-    border-radius: 50px;
-} */
+.progress-bar{
+    background-color:#761B1B ;
+}
+.frontend-img{
+    border:2px solid black;
+    padding: 5px;
+}
