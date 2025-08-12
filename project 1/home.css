@@ -10,16 +10,11 @@ body{
 .heading{
     color: red;
 }
-/* .home img{
+.home img{
     width: 450px;
     height: 500px;
     margin-top: 50px;
-} */
- .home img {
-    max-width: 100%;
-    height: auto;
 }
-
 .home h1{
     font-weight: bolder;
     color: white;
